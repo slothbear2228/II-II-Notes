@@ -1,0 +1,28 @@
+Unit-1
+OSI Reference Model
+Compare and OSI and TCP/IP reference models
+guided media,transmission media,Wireless transmission media
+CRC
+Sliding Windows Protocol,
+Go – Back – N ARQ,Selective Repeat ARQ
+
+Unit-2
+Aloha,Csma(All Models)
+Ethernet,MAC Sublayer
+Spanning tree bridge
+Bridges,Switches, Hubs, Routers and Gateways
+
+Unit-3
+Network layer Desgin issue(connection-oriented networks,connectionless networks,Store And Forward Switching)
+bit stuffing and character stuffing
+Algorithms 
+Congestion Control Algorithms,Distance Vector Routing,Infinity Problem and Hierarchical Routing,
+Flooding,Shortestpath
+
+Unit-4
+IPV4,IPV6,ARP and RARP,CIDR and ICMP,PacketFragementation
+services provided by Transport Layer,Connection Establishment,Connection Realase
+
+Unit-5
+services provided by TCP,TCP Segment Header,TCP Connection Management Modeling,Tcp Connection,TCP Connection Realase,TCP Sliding Window and TCP Congestion Control
+HTTP,DNS,FTP,Email
